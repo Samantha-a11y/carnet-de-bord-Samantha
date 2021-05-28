@@ -24,5 +24,5 @@ Le Cahier des charges à été établi en grande partie ont été clarifiés et 
 ## Jeudi 06/05/2021 : Jour 3 
 
 - Présentation des wireframes de chaque membre de l'équipe.
-- Mon wireframe : [wireframe](Video-Games-Mobile---Wireframe-cc-Premium (1).pdf)
+- Mon wireframe : 
 
