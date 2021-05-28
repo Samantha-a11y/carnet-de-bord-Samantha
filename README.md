@@ -26,6 +26,10 @@ Le Cahier des charges à été établi en grande partie ont été clarifiés et 
 - Présentation des wireframes de chaque membre de l'équipe.
 - Mon wireframe : 
 
-## Vendredi 01/05/20121 : Jour 4 
-- Elaboration du guide de style sur Figma [Guide de style](https://www.figma.com/file/MQqlM79R7tU9L5Ub45oeEJ/Guide-de-style-jeux-vid%C3%A9os?node-id=0%3A1)
-- 
+## Vendredi 01/05/2021 : Jour 4 
+- Elaboration du guide de style sur Figma
+- [Guide de style](https://www.figma.com/file/MQqlM79R7tU9L5Ub45oeEJ/Guide-de-style-jeux-vid%C3%A9os?node-id=0%3A1)
+
+## Lundi 04/05/2021 : Jour 5
+- Définition des user-stories 
+- [User Stories](https://docs.google.com/document/d/1GL6JzHzazQjchE_tvIuX64vasrjEN7tfEm4B682lg4c/edit)
