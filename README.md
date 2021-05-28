@@ -24,7 +24,7 @@ Le Cahier des charges à été établi en grande partie ont été clarifiés et 
 ## Jeudi 06/05/2021 : Jour 3 
 
 - Présentation des wireframes de chaque membre de l'équipe.
-- Mon wireframe : [Wireframe](https://github.com/integra11y-session1/jeux-video-par-criteres-d-accessibilite/blob/main/__doc/Conceptions/Maquettes/Maquettes%20Samantha/Video-Games-Mobile---Wireframe-cc-Premium%20(1).pdf)
+- Mes wireframes : [Wireframe mobile](https://github.com/integra11y-session1/jeux-video-par-criteres-d-accessibilite/blob/main/__doc/Conceptions/Maquettes/Maquettes%20Samantha/Video-Games-Mobile---Wireframe-cc-Premium%20(1).pdf), [Wireframe Desktop](https://github.com/integra11y-session1/jeux-video-par-criteres-d-accessibilite/blob/main/__doc/Conceptions/Maquettes/Maquettes%20Samantha/Video-Games-desktop---Wireframe-cc-Premium%20(1).pdf)
 
 ## Vendredi 07/05/2021 : Jour 4 
 - Elaboration du guide de style sur Figma
