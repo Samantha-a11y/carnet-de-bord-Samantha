@@ -42,6 +42,5 @@ Le Cahier des charges à été établi en grande partie ont été clarifiés et 
 *Sprint 2: Developpement*
 
 ## Mercredi 12/05/2021 : Jour 7 
-- Intégration des pages "Actualités" et "Coups de coeur de l'équipe" en desktop
 - Découpage HTML sur la maquette
-- 
+- Intégration des pages "Actualités" et "Coups de coeur de l'équipe" en desktop
