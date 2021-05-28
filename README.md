@@ -1,6 +1,8 @@
 # carnet-de-bord-Samantha
 Suivi quotidien de mon travail concernant le  projet JVA11Y
 
+*Sprint 1 : Conception*
+
 ## Mardi 04/05/2021 : Début du projet JVa11y - Jeux Vidéo par critères d'accessibilité.
 - Attribution des rôles de chaque coequipier 
 - Création du git project 
@@ -36,3 +38,6 @@ Le Cahier des charges à été établi en grande partie ont été clarifiés et 
 
 ## Mardi 11/05/2021 : Jour 6
 - Révision du cahier des charges 
+- Intégration du guide de style dans la branche style base
+
+*Sprint 2: Developpement*
