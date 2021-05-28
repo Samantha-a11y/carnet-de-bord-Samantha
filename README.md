@@ -5,7 +5,6 @@ Suivi quotidien de mon travail concernant le  projet JVA11Y
 
 ## Mardi 04/05/2021 : Début du projet JVa11y - Jeux Vidéo par critères d'accessibilité.
 - Attribution des rôles de chaque coequipier 
-- Création du git project 
 - Début de la mise en place du cahier du charge 
 - Brainstorming concernant le contenu du site, la base de données à utiliser/créer
 - Premières idées de contenu annexe
