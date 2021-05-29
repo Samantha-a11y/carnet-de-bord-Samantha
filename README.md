@@ -73,4 +73,12 @@ Le Cahier des charges à été établi en grande partie ont été clarifiés et 
 
 ## Lundi 24/05/2021 : Jour 15
 - Recherche de documentation pour importer une base de jeux-vidéos déjà existante et la transposer en front (sur notre site Internet)
+- Poursuite de l'intégration 
+
+## Mardi 25/05/2021 : Jour 16 
+- Intégration terminée 
+- Installation de Word Press
+- Création du thème : JVA11Y
+- Ajout d'un fichier index.php et style.css 
+- Ajout des templates 
 
