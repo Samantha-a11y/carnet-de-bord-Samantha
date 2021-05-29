@@ -41,7 +41,7 @@ Le Cahier des charges à été établi en grande partie ont été clarifiés et 
 
 ## Mercredi 12/05/2021 : Jour 7 
 - Présentation du projet aux autres groupes 
-- Validation des documents conçus pour la conception
+- Validation des documents conçus 
 
 *sprint 2: Developpement*
 
@@ -70,4 +70,7 @@ Le Cahier des charges à été établi en grande partie ont été clarifiés et 
 - Présentation du projet aux autres groupes 
 - Reprise de l'intégration en mobile first 
 - Application des Media Queries version desktop (min width : 50 em)
+
+## Lundi 24/05/2021 : Jour 15
+- Recherche de documentation pour importer une base de jeux-vidéos déjà existante et la transposer en front (sur notre site Internet)
 
