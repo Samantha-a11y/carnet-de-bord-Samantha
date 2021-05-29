@@ -50,10 +50,15 @@ Le Cahier des charges à été établi en grande partie ont été clarifiés et 
 - Découpage HTML sur la maquette
 - Intégration des pages "Actualités" et "Coups de coeur de l'équipe" en desktop
 
-## Vendredi 13/05/2021 
+## Vendredi 13/05/2021 : Jour 9
 - Intégration des pages "Actualités" et "Coups de coeur de l'équipe" en desktop
+
+## Lundi 16/05/2021 : Jour 10
+- Intégration des pages "Actualités" et "Coups de coeur de l'équipe" en desktop
+
+## Mardi 17/05/2021 : Jour 11
+- Intégration des pages "Actualités" et "Coups de coeur de l'équipe" en desktop
+
+## Mercredi 18/05/2021 : Jour 12 
 - Problématique pour avoir un fichier base css en commun : création d'une branche style base 
 - Rapatriement de la branche style base sur mes branches d'intégration (ouvrir console, commande : git rebase main) 
-
-## Lundi 16/05/2021
-- 
