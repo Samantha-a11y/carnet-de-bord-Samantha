@@ -62,3 +62,6 @@ Le Cahier des charges à été établi en grande partie ont été clarifiés et 
 ## Mercredi 19/05/2021 : Jour 12 
 - Problématique pour avoir un fichier base css en commun : création d'une branche style base 
 - Rapatriement de la branche style base sur mes branches d'intégration (ouvrir console, commande : git rebase main) 
+
+## Jeudi 20/05/2021 : Jour 13 
+- Sélection de plugins pour WordPress [Plugins](https://github.com/integra11y-session1/jeux-video-par-criteres-d-accessibilite/tree/main/__doc/Conceptions)
