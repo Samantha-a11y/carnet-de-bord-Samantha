@@ -40,8 +40,8 @@ Le Cahier des charges à été établi en grande partie ont été clarifiés et 
 - Intégration du guide de style dans la branche style base
 
 ## Mercredi 12/05/2021 : Jour 7 
--Présentation du projet aux autres groupes 
--Validation des documents conçus pour la conception
+- Présentation du projet aux autres groupes 
+- Validation des documents conçus pour la conception
 
 *sprint 2: Developpement*
 
