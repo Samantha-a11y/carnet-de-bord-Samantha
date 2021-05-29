@@ -37,7 +37,7 @@ Le Cahier des charges à été établi en grande partie ont été clarifiés et 
 
 ## Mardi 11/05/2021 : Jour 6
 - Révision du cahier des charges 
-- Intégration du guide de style dans la branche style base
+- Intégration du guide de style 
 
 ## Mercredi 12/05/2021 : Jour 7 
 - Présentation du projet aux autres groupes 
@@ -46,5 +46,14 @@ Le Cahier des charges à été établi en grande partie ont été clarifiés et 
 *sprint 2: Developpement*
 
 ## Jeudi 13/05/2021 : Jour 8 
+- Kanban pour l'intégration 
 - Découpage HTML sur la maquette
 - Intégration des pages "Actualités" et "Coups de coeur de l'équipe" en desktop
+
+## Vendredi 13/05/2021 
+- Intégration des pages "Actualités" et "Coups de coeur de l'équipe" en desktop
+- Problématique pour avoir un fichier base css en commun : création d'une branche style base 
+- Rapatriement de la branche style base sur mes branches d'intégration (ouvrir console, commande : git rebase main) 
+
+## Lundi 16/05/2021
+- 
