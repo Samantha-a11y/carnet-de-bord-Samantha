@@ -79,6 +79,20 @@ Le Cahier des charges à été établi en grande partie ont été clarifiés et 
 - Intégration terminée 
 - Installation de Word Press
 - Création du thème : JVA11Y
+- Ajout d'un screeshot.png (fond d'écran du thème)
 - Ajout d'un fichier index.php et style.css 
 - Ajout des templates 
 
+## Mercerdi 26/05/2021 : Jour 17
+- Attribution des templates 
+- Début de la dynamisation en php 
+- Mes templates : single.php et archive.php 
+
+## Jeudi 27/05/2021 : Jour 18
+- Rendu des templates sur Word Press, ajout de plugins.
+- Choix d'héberger le site pour avoir un rendu visuel pour chaque personne du groupe
+- Compte FTP en commun pour modification des fichiers. 
+
+## Vendredi 28/05/2021 : Jour 19 
+- Présentation du projet aux autres groupes 
+- Validation du projet 
