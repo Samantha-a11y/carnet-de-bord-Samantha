@@ -65,3 +65,9 @@ Le Cahier des charges à été établi en grande partie ont été clarifiés et 
 
 ## Jeudi 20/05/2021 : Jour 13 
 - Sélection de plugins pour WordPress [Plugins](https://github.com/integra11y-session1/jeux-video-par-criteres-d-accessibilite/tree/main/__doc/Conceptions)
+
+## Vendredi 21/05/2021 : Jour 14 
+- Présentation du projet aux autres groupes 
+- Reprise de l'intégration en mobile first 
+- Application des Media Queries version desktop (min width : 50 em)
+
